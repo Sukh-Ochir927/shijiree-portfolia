@@ -80,7 +80,7 @@ export function ContactSection() {
           transition={{ duration: 0.5 }}
         >
           <h2 className="font-display text-3xl font-bold text-neutral-900 sm:text-4xl">
-Let's work together
+Let&apos;s work together
           </h2>
           <p className="mt-4 max-w-md text-neutral-600">
             Have a project in mind? Send a message or reach out via socials.
